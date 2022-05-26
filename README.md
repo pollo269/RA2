@@ -30,11 +30,11 @@
 
 ![image](https://user-images.githubusercontent.com/69574970/170446312-afd02e18-a3f6-49dc-be0d-00677e24b06e.png)
 
-- 點選**I accept the agreement**，然後點選**下一步**
+- 點選""I accept the agreement""，然後點選""下一步""
 
 ![image](https://user-images.githubusercontent.com/69574970/170446889-7ce2c856-852b-4e52-91d3-338197ff3bd9.png)
 
-- 選擇RA2的下載位置，然後下載
+- 選擇""RA2的下載位置""，然後""下載""
 
 ![image](https://user-images.githubusercontent.com/69574970/170447130-f0e5fda2-e3db-477c-b6db-8ba7b872bdeb.png)
 
