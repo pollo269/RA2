@@ -38,5 +38,5 @@
 
 ![image](https://user-images.githubusercontent.com/69574970/170447130-f0e5fda2-e3db-477c-b6db-8ba7b872bdeb.png)
 
-
+- 安裝完成
 
